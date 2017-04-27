@@ -1,3 +1,4 @@
 == README
 
 This the README for madiba-chris app
+Making app production ready
